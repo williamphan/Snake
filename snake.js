@@ -24,7 +24,7 @@ function Snake(parent) {
     function Game(parent) {
         var snake,					//Snake
             food,					//Food
-            playField,				//Canvas
+            playField,					//Canvas
             frames;					//Timeout for frames (speed)
 
         //Init, first startup
